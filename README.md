@@ -1,5 +1,5 @@
 # prices-tracker
-EpicGames Store prices tracker.
+EpicGames Store prices tracker. by EpicData-info
 
 # Discord Community
 https://discord.gg/NhR8cs7nDr
