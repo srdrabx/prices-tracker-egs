@@ -146,7 +146,7 @@ class Main {
       binary: 'git',
     });
     await git.addConfig('hub.protocol', 'https');
-    await git.checkoutBranch('master');
+    await git.checkoutBranch('main');
     await git.add([`${this.databasePath}/.`]);
     const status = await git.status();
     const changesCount = status.created.length + status.modified.length + status.deleted.length + status.renamed.length;
@@ -157,7 +157,7 @@ class Main {
     await git.commit(commitMessage);
     await git.removeRemote('origin');
     await git.addRemote('origin', process.env.GIT_REMOTE);
-    await git.push(['-u', 'origin', 'master']);
+    await git.push(['-u', 'origin', 'main']);
     console.log(`Changes has commited to repo with message ${commitMessage}`);
   }
   
