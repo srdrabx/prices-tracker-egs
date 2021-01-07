@@ -1,6 +1,8 @@
 # prices-tracker
 EpicGames Store prices tracker. by EpicData-info
 
+forked from https://github.com/EpicData-info/prices-tracker
+
 # Discord Community
 https://discord.gg/NhR8cs7nDr
 
