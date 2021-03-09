@@ -172,5 +172,65 @@
     "decimals": 2,
     "description": "Colombia Pesos",
     "symbol": "$"
+  },
+  "MYR": {
+    "code": "MYR",
+    "decimals": 2,
+    "description": "Malaysian ringgit",
+    "symbol": "RM"
+  },
+  "CRC": {
+    "code": "CRC",
+    "decimals": 2,
+    "description": "Costa Rican colon",
+    "symbol": "₡"
+  },
+  "UYU": {
+    "code": "UYU",
+    "decimals": 2,
+    "description": "Uruguayan peso",
+    "symbol": "$"
+  },
+  "HKD": {
+    "code": "HKD",
+    "decimals": 2,
+    "description": "Hong Kong dollar",
+    "symbol": "$"
+  },
+  "PHP": {
+    "code": "PHP",
+    "decimals": 2,
+    "description": "Philippine peso",
+    "symbol": "₱"
+  },
+  "SGD": {
+    "code": "SGD",
+    "decimals": 2,
+    "description": "Singapore dollar",
+    "symbol": "S$"
+  },
+  "THB": {
+    "code": "THB",
+    "decimals": 2,
+    "description": "Thai baht",
+    "symbol": "฿"
+  },
+  "KZT": {
+    "code": "KZT",
+    "decimals": 2,
+    "description": "Kazakhstani tenge",
+    "symbol": "₸"
+  },
+  "QAR": {
+    "code": "QAR",
+    "decimals": 2,
+    "description": "Qatari riyal",
+    "symbol": "QR"
+  },
+  "BGN": {
+    "code": "BGN",
+    "decimals": 2,
+    "description": "Bulgarian lev",
+    "symbol": "лв."
   }
 }
