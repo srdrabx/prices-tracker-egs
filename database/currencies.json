@@ -238,5 +238,23 @@
     "decimals": 2,
     "description": "Chinese Yuan",
     "symbol": "¥"
+  },
+  "IDR": {
+    "code": "IDR",
+    "decimals": 2,
+    "description": "Indonesian rupiah",
+    "symbol": "Rp"
+  },
+  "VND": {
+    "code": "VND",
+    "decimals": 0,
+    "description": "Vietnamese dong",
+    "symbol": "₫"
+  },
+  "TWD": {
+    "code": "TWD",
+    "decimals": 2,
+    "description": "New Taiwan dollar",
+    "symbol": "NT$"
   }
 }
