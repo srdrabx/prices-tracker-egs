@@ -2,19 +2,19 @@
   "id": "53b7d8c5c4004586874fdca11876ddd6",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 85,
-      "paymentCurrencyCode": "USD",
+      "paymentCurrencyAmount": 600,
+      "paymentCurrencyCode": "CNY",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "$"
+      "paymentCurrencySymbol": "¥"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 85,
+      "basePayoutPrice": 93,
       "convenienceFee": 0,
-      "currencyCode": "USD",
+      "currencyCode": "CNY",
       "discount": 0,
-      "discountPrice": 85,
-      "originalPrice": 85,
+      "discountPrice": 600,
+      "originalPrice": 600,
       "originalUnitPrice": null,
       "unitPrice": null,
       "vat": 0,
