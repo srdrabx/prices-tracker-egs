@@ -1,23 +1,23 @@
 {
-  "id": "fc17f11ea7f64f0bad10c9efbdc9b9ee",
+  "id": "50ad2ebf631c4704bdc9bafe004f8538",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 89900,
-      "paymentCurrencyCode": "UAH",
+      "paymentCurrencyAmount": 1480,
+      "paymentCurrencyCode": "TRY",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "₴"
+      "paymentCurrencySymbol": "₺"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 3324,
+      "basePayoutPrice": 146,
       "convenienceFee": 0,
-      "currencyCode": "UAH",
+      "currencyCode": "TRY",
       "discount": 0,
-      "discountPrice": 89900,
-      "originalPrice": 89900,
+      "discountPrice": 1480,
+      "originalPrice": 1480,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 0,
+      "vat": 226,
       "voucherDiscount": 0
     }
   }
