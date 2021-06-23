@@ -2,22 +2,22 @@
   "id": "b1faf4597f064576a7ad60efff9d2a9a",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 1242,
-      "paymentCurrencyCode": "JPY",
+      "paymentCurrencyAmount": 1890,
+      "paymentCurrencyCode": "TRY",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "¥"
+      "paymentCurrencySymbol": "₺"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1020,
+      "basePayoutPrice": 185,
       "convenienceFee": 0,
-      "currencyCode": "JPY",
-      "discount": 138,
-      "discountPrice": 1242,
-      "originalPrice": 1380,
+      "currencyCode": "TRY",
+      "discount": 210,
+      "discountPrice": 1890,
+      "originalPrice": 2100,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 113,
+      "vat": 288,
       "voucherDiscount": 0
     }
   }
