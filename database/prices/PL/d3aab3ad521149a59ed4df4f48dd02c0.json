@@ -1,23 +1,23 @@
 {
-  "id": "58a2b650955f4920876afe86dfb563c1",
+  "id": "d3aab3ad521149a59ed4df4f48dd02c0",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 4799,
-      "paymentCurrencyCode": "BRL",
+      "paymentCurrencyAmount": 6900,
+      "paymentCurrencyCode": "PLN",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "R$"
+      "paymentCurrencySymbol": "zł"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 968,
+      "basePayoutPrice": 1483,
       "convenienceFee": 0,
-      "currencyCode": "BRL",
+      "currencyCode": "PLN",
       "discount": 0,
-      "discountPrice": 4799,
-      "originalPrice": 4799,
+      "discountPrice": 6900,
+      "originalPrice": 6900,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 0,
+      "vat": 1290,
       "voucherDiscount": 0
     }
   }
