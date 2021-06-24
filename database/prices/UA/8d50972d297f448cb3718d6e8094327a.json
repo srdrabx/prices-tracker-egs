@@ -2,18 +2,18 @@
   "id": "8d50972d297f448cb3718d6e8094327a",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 29900,
+      "paymentCurrencyAmount": 0,
       "paymentCurrencyCode": "UAH",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "₴"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 1097,
+      "basePayoutPrice": 0,
       "convenienceFee": 0,
       "currencyCode": "UAH",
-      "discount": 0,
-      "discountPrice": 29900,
+      "discount": 29900,
+      "discountPrice": 0,
       "originalPrice": 29900,
       "originalUnitPrice": null,
       "unitPrice": null,

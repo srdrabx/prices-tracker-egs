@@ -1,0 +1,24 @@
+{
+  "id": "7681407249fe4a46a32f873bb73f7542",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 66339,
+      "paymentCurrencyCode": "INR",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "₹"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 758,
+      "convenienceFee": 0,
+      "currencyCode": "INR",
+      "discount": 15561,
+      "discountPrice": 66339,
+      "originalPrice": 81900,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 10120,
+      "voucherDiscount": 0
+    }
+  }
+}
