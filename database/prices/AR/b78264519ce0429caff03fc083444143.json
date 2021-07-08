@@ -1,0 +1,24 @@
+{
+  "id": "b78264519ce0429caff03fc083444143",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 3866,
+      "paymentCurrencyCode": "USD",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "$"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 3866,
+      "convenienceFee": 0,
+      "currencyCode": "USD",
+      "discount": 0,
+      "discountPrice": 3866,
+      "originalPrice": 3866,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 0,
+      "voucherDiscount": 0
+    }
+  }
+}
